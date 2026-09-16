@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ravilalawat
-- 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning BCA 
+- 👋 Hi, I’m @RaviLalawat
+- 👀 I’m interested in AI
+- 🌱 I completed BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , My Instagram username is ravi.lalawat.102
 - 😄 Pronouns: he
